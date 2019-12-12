@@ -1,0 +1,8 @@
+{
+  "tools" : [
+    {"name":"Angular", "image":"/media/icons/angular.png"},
+    {"name":"Node.js", "image":"/media/icons/node.png"},
+    {"name":"PHP", "image":"/media/icons/php.png"},
+    {"name":"Python", "image":"/media/icons/python.png"}
+   ]
+}
